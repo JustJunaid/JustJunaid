@@ -1,4 +1,4 @@
-### Hi there 👋 I am Junaid, a full-stack JavaScript developer based out of New Delhi, India. I have more than three years of professional experience working in a couple of startups here in Delhi and on the other end working with the very well-know consultancy firm McKinsey and Company, though not full-time but on a contract basis. 
+### Hi there 👋 I am Junaid, a full-stack JavaScript developer based out of New Delhi, India. I have more than three years of professional experience working in a couple of startups in New Delhi and on the other end working with the very well-know consultancy firm McKinsey and Company, though not full-time but on a contract basis. 
 
 🔭 I’m currently working as a full-stack developer at Srijan Technologies.
 
