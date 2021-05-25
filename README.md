@@ -1,7 +1,5 @@
 ### Hi there 👋 I am Junaid, a full-stack JavaScript developer based out of New Delhi, India. I have more than three years of professional experience working in a couple of startups in New Delhi and on the other end working with the very well-know consultancy firm McKinsey and Company, though not full-time but on a contract basis. 
 
-🔭 I’m currently working as a full-stack developer at Srijan Technologies.
-
 I have experience in multiple technologies such as Reactjs, Nodejs, python’s flask and a little bit of Django to name a few. Also, these days I've been 🌱 exploring  Next.js which is pretty dope, it’s build on top of ReactJS, makes server-side rendering a lot easier.
 
 Honestly I have more inclination towards front-end devlelopment, I just love developing wonderful user interfaces in React and have good hold on most popular UI frameworks like React Bootstrap, Material Ui, Ant Design, BlueprintJS, Tailwind Css, etc
